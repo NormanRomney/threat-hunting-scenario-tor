@@ -153,6 +153,6 @@ The user "rep369" on the "sales-center-1" device initiated and completed the ins
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `employee`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on the endpoint `sales-center-1` by the user `rep369`. The device was isolated, and the user's direct manager was notified.
 
 ---
