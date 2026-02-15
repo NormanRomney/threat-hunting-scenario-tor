@@ -155,4 +155,7 @@ The user "rep369" on the "sales-center-1" device initiated and completed the ins
 
 TOR usage was confirmed on the endpoint `sales-center-1` by the user `rep369`. The device was isolated, and the user's direct manager was notified.
 
+<img width="940" height="195" alt="Screenshot 2026-02-14 at 9 48 07 PM" src="https://github.com/user-attachments/assets/e67dabce-22c2-4d2e-91c1-ff9b8a9d0430" />
+
+
 ---
